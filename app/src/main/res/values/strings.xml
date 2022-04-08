@@ -8,6 +8,8 @@
     <string name="input_loginId">로그인 아이디를 입력하세요.</string>
     <string name="password">비밀번호</string>
     <string name="input_password">비밀번호를 입력하세요</string>
+    <string name="input_phone">전화번호를 입력하세요</string>
+    <string name="input_address">주소를 입력하세요</string>
     <string name="password2">비밀번호 확인</string>
     <string name="input_password2">비밀번호를 한번 더 입력하세요</string>
     <string name="email">이메일</string>
@@ -24,5 +26,10 @@
     <string name="cat">고양이</string>
     <string name="dog">강아지</string>
     <string name="owl">부엉이</string>
-
+    <string-array name="phoneTypes">
+        <item>집전화</item>
+        <item>사무실전화</item>
+        <item>휴대폰</item>
+        <item>기타</item>
+    </string-array>
 </resources>
